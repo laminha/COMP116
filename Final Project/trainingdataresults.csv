@@ -1,0 +1,11 @@
+Class Label,Preditction,Correct or Incorrect
+spam,SPAM,True
+spam,SPAM,True
+spam,SPAM,True
+spam,SPAM,True
+spam,SPAM,True
+ham,HAM,True
+ham,HAM,True
+ham,HAM,True
+ham,HAM,True
+ham,HAM,True
